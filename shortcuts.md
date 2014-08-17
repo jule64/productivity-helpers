@@ -4,7 +4,7 @@
 # IntelliJ IDEA
 
 
-Below are the shortcuts I use the most useful in IntelliJ.  If the shortcut is not the default one it is marked with a '*R' (for 'remapped') and the original shortcut (if applicable) is shown next to it.
+Below are the shortcuts I use the most useful in IntelliJ.  Note I marked shortcuts that I remapped with the '*R' symbol and added the original shortcut in bracket (if applicable).
 
 Also check out Intellij's [Keyboard Shortcuts You Cannot Miss](http://www.jetbrains.com/idea/webhelp/keyboard-shortcuts-you-cannot-miss.html) article.
 
