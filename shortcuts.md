@@ -9,11 +9,11 @@
 <pre>
 Shortcut                        Action                                    
 -----------------------------------------------------------------------------------------------------
-Opt ⌘ B                         navigate to subtypes
-Opt Up                          select expanding
-Opt ⌘ V                         extract variable
+⌥ ⌘ B                           navigate to subtypes
+⌥ Up                            select expanding
+⌥ ⌘ V                           extract variable
 ⌘ /                             (un)comment lines
-Opt ⌘ /                         (un)comment block
+⌥ ⌘ /                           (un)comment block
 Tab                             Live Templates
 ⌘ P                             brings method parameters
 Up ⌘ Left                       last edit location
@@ -22,10 +22,25 @@ Up ⌘ F7                         highlight usages in the file
 Esc                             remove usages
 ^ Up Q                          shows declaration of current method   
 ⌘ E                             view recent files
-Opt ⌘ Up / Down                 jump between compiler errors or search results
+⌥ ⌘ Up / Down                   jump between compiler errors or search results
 ⌘ J                             completion for live templates
 ^ Tab                           cycle through panels
 ⌘ } or {                        move to next / previous tab
+Up ⌘ V                          insert recent clipboard content
+^ H                             inheritance hierarchy for a selected class
+⌥ F8                            evaluate expression (debug mode)
+⌘ ,                             project & IDE settings
+⌘ ;                             project structure
+F1                              Quick Documentation
+⌥ Space                         Quick definition (of class / method etc.)
+⌘ P                             View | Parameter Info
+⌘ B                             Navigate | Declaration
+⌘ `                             Cycle between windows
+⌥ ⌘ O                           open any particular method or field in the editor quickly
+⌥ R                             Replace
+Shift Shift                     Search everywhere
+Up ⌘ Enter                      to complete a current statement such as if, do-while, try-catch
+⌘ K                             commit directory popup
 
 
 </pre>
