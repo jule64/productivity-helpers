@@ -6,10 +6,9 @@
 
 Below are the shortcuts I use the most useful in IntelliJ.  
 
-Note I marked the shortcuts that I remapped with the '*R' symbol and added the original shortcut in bracket (if applicable).
+Note I marked the shortcuts that I remapped with the <b>**</b> symbol and added the original shortcut in bracket (if applicable).
 
-Also check out Intellij's [Keyboard Shortcuts You Cannot Miss](http://www.jetbrains.com/idea/webhelp/keyboard-shortcuts-you-cannot-miss.html) article.
-
+For more shortcuts you can also check <a href="http://www.jetbrains.com/idea/webhelp/keyboard-shortcuts-you-cannot-miss.html" target="_blank">this article</a> from Intellij.
 
 
 ## Mac
@@ -50,7 +49,7 @@ Shift Shift                     Search everywhere
 Up ⌘ Enter                      to complete a current statement such as if, do-while, try-catch
 ⌘ K                             commit directory popup
 ⌘ Up K                          git push
-⌘ ^ O   (*R)                    reveal in Finder
+⌘ ^ O (**)                      reveal in Finder
 
 
 </pre>
