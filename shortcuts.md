@@ -24,6 +24,9 @@ Esc                             remove usages
 ⌘ E                             view recent files
 Opt ⌘ Up / Down                 jump between compiler errors or search results
 ⌘ J                             completion for live templates
+^ Tab                           cycle through panels
+⌘ } or {                        move to next / previous tab
+
 
 </pre>
 
