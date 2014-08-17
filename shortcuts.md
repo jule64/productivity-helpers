@@ -4,6 +4,12 @@
 # IntelliJ IDEA
 
 
+Below are the shortcuts I use the most useful in IntelliJ.  If the shortcut is not the default one it is marked with a '*R' (for 'remapped') and the original shortcut (if applicable) is shown next to it.
+
+Also check out Intellij's [Keyboard Shortcuts You Cannot Miss](http://www.jetbrains.com/idea/webhelp/keyboard-shortcuts-you-cannot-miss.html) article.
+
+
+
 ## Mac
 
 <pre>
@@ -41,6 +47,8 @@ F1                              Quick Documentation
 Shift Shift                     Search everywhere
 Up ⌘ Enter                      to complete a current statement such as if, do-while, try-catch
 ⌘ K                             commit directory popup
+⌘ P                             git push
+⌘ ^ O   (*R)                    reveal in Finder
 
 
 </pre>
@@ -72,3 +80,14 @@ Alt insert                      generate getter/setter
 
 
 </pre>
+
+
+
+
+# Eclipse IDE
+
+## Windows
+
+I am attaching below the scanned copy of my eclipse shortcuts.  No plans to rewrite them to markdown for now.
+
+![screenshot](eclipse shortcuts.JPG)
