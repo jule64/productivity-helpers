@@ -47,7 +47,7 @@ F1                              Quick Documentation
 Shift Shift                     Search everywhere
 Up ⌘ Enter                      to complete a current statement such as if, do-while, try-catch
 ⌘ K                             commit directory popup
-⌘ P                             git push
+⌘ Up K                          git push
 ⌘ ^ O   (*R)                    reveal in Finder
 
 
