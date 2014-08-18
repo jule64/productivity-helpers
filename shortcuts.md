@@ -102,3 +102,10 @@ And here my UNIX ones (planning to rewrite to soon)
 ![screenshot3](img/UNIX command line 1.jpg)
 
 ![screenshot4](img/UNIX command line 2.jpg)
+
+
+## JVM Analysis tool
+
+I compiled this from various sources
+
+![screenshot5](img/JVM analysis.jpg)
