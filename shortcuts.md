@@ -50,7 +50,7 @@ Up ⌘ Enter                      to complete a current statement such as if, do
 ⌘ K                             commit directory popup
 ⌘ Up K                          git push
 ⌘ ^ O (**)                      reveal in Finder
-
+Opt Up                           Select word at caret (repeat to expand to enclosing expressions)
 
 </pre>
 
@@ -79,6 +79,7 @@ F2                              Any error in file
 Alt insert                      generate getter/setter
 ^ Alt I                         Format code
 Alt `                           Bring up VCS operations pop up dialogue (++)
+^ W  / ^ Shift W                Select/De-select word at caret (repeat to expand to enclosing expressions)
 
 </pre>
 
