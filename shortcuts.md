@@ -4,7 +4,7 @@
 # IntelliJ IDEA
 
 
-Below are the shortcuts I use the most useful in IntelliJ.  
+Below are the shortcuts I use the most in IntelliJ.  
 
 Note I marked the shortcuts that I remapped with the <b>**</b> symbol and added the original shortcut in bracket (if applicable).
 
@@ -78,7 +78,7 @@ F2                              Any error in file
 ^ Alt O                         Organize imports
 Alt insert                      generate getter/setter
 ^ Alt I                         Format code
-
+Alt `                           Bring up VCS operations pop up dialogue (++)
 
 </pre>
 
