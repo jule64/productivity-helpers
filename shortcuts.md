@@ -91,12 +91,14 @@ Alt insert                      generate getter/setter
 
 I am attaching below the scanned copy of my eclipse shortcuts.  No plans to rewrite them to markdown for now.
 
-![screenshot](img/eclipse 1.pdf)
+![screenshot](img/eclipse 1.jpg)
 
-![screenshot2](img/eclipse 2.pdf)
+![screenshot2](img/eclipse 2.jpg)
 
 ## UNIX
 
 And here my UNIX ones (planning to rewrite to soon)
 
-![screenshot3](img/UNIX command line.pdf)
+![screenshot3](img/UNIX command line 1.jpg)
+
+![screenshot4](img/UNIX command line 2.jpg)
