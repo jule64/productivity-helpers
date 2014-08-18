@@ -4,7 +4,7 @@
 # IntelliJ IDEA
 
 
-Below are the shortcuts I use the most useful in IntelliJ.  
+Below are the shortcuts I use the most in IntelliJ.  
 
 Note I marked the shortcuts that I remapped with the <b>**</b> symbol and added the original shortcut in bracket (if applicable).
 
