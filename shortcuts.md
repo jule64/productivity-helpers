@@ -51,6 +51,8 @@ Up ⌘ Enter                      to complete a current statement such as if, do
 ⌘ Up K                          git push
 ⌘ ^ O (**)                      reveal in Finder
 Opt Up                           Select word at caret (repeat to expand to enclosing expressions)
+Esc                              Brings focus back to editor wherever we are (++)
+Shift Esc                        Brings focus back to editor and minimise current window
 
 </pre>
 
@@ -80,6 +82,10 @@ Alt insert                      generate getter/setter
 ^ Alt I                         Format code
 Alt `                           Bring up VCS operations pop up dialogue (++)
 ^ W  / ^ Shift W                Select/De-select word at caret (repeat to expand to enclosing expressions)
+^ Y                             Delete line
+Esc                             Brings focus back to editor wherever we are (++)
+Shift Esc                       Brings focus back to editor and minimise current window
+F12 (from inside editor)        Switch to project view
 
 </pre>
 
