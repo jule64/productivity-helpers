@@ -97,7 +97,7 @@ I am attaching below the scanned copy of my eclipse shortcuts.  No plans to rewr
 
 ## UNIX
 
-And here my UNIX ones (planning to rewrite to soon)
+And here my UNIX ones (planing to rewrite soon)
 
 ![screenshot3](img/UNIX command line 1.jpg)
 
