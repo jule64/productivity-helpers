@@ -58,6 +58,7 @@ Shift Esc                        Brings focus back to editor and minimise curren
 
 
 
+
 ## Windows
 
 <pre>
@@ -70,23 +71,26 @@ Shortcut                        Action
 ^ F12                           file structure
 Shift F6                        refactor | rename
 ^ O                             override method
+^ Alt O                         organize imports
 ^ I                             implement method
-^ Shift Space                   SmartType code completion
-Shift Shift                     Search everywhere
-^ Shift F                       Find in path (same as normal find but searches all source files
-^ Shift A                       Find actions e.g. settings, their shortcut if exists
-^ E                             Recently opened file
-F2                              Any error in file
-^ Alt O                         Organize imports
+^ Alt I                         format code
+^ Shift I                       definition of the method,class where cursor is pointing    
+^ Shift Space                   smartType code completion
+Shift Shift                     search everywhere
+^ Shift F                       find in path (same as normal find but searches all source files
+^ Shift A                       find actions e.g. settings, their shortcut if exists
+^ E                             recently opened files
+^ Shift E                       recently edited files
+F2                              any error in file
 Alt insert                      generate getter/setter
-^ Alt I                         Format code
-Alt `                           Bring up VCS operations pop up dialogue (++)
-^ W  / ^ Shift W                Select/De-select word at caret (repeat to expand to enclosing expressions)
+Alt `                           bring up VCS operations pop up dialogue (++)
+^ W  / ^ Shift W                select/De-select word at caret (repeat to expand to enclosing expressions)
+Alt F1, Enter                   shows the file in project window    
 ^ Y                             Delete line
 Esc                             Brings focus back to editor wherever we are (++)
 Shift Esc                       Brings focus back to editor and minimise current window
 F12 (from inside editor)        Switch to project view
-
+^ Shift F12                     hides everything but editor, press again restore
 </pre>
 
 
