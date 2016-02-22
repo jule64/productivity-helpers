@@ -36,7 +36,7 @@ F3                            bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show 
 ^ ⇧ Q                         shows declaration of current method  
 ⌘ E                           view recent files  
 ⌥ ⌘ ↑/↓                       jump between compiler errors or search results
-<pre>
+</pre>
 
 ## VIM for OSX
 
