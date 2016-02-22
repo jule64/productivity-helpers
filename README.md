@@ -64,9 +64,9 @@ hh
 
 ## IntelliJ OSX
 
-`⌘ J | live template`\n
-`⌥ ⌘ | Jsurround with live template`\n
-`^ J | quick doc`\n
+`⌘ J | live template
+⌥ ⌘ | Jsurround with live template
+^ J | quick doc`
 
 ```
 ⌘ Y  or ⌥ <spacebar> ::  quick definition
