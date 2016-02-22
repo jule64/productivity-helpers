@@ -54,7 +54,7 @@
 
 
 
-## IntelliJ for Windows  [back to top](#contents)
+## IntelliJ for Windows  <small>([top](#contents))</small>
 
 
 Shortcut                        Action                          
@@ -92,4 +92,4 @@ Shortcut                        Action
 
 
 
-<a href="#top">Back to top</a>
+<a href="#top">top</a>
