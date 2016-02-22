@@ -63,11 +63,12 @@ hh
 
 
 ## IntelliJ OSX
-```
-⌘ J | live template
-⌥ ⌘ | Jsurround with live template
-^ J | quick doc
 
+`⌘ J | live template`
+`⌥ ⌘ | Jsurround with live template`
+`^ J | quick doc`
+
+```
 ⌘ Y  or ⌥ <spacebar> ::  quick definition
 
 ^ G or  ⌥ . :: find next occurrence
