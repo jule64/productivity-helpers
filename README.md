@@ -4,12 +4,12 @@
 
 
 
-## Apps
+## Contents
 * IntelliJ  [OSX](#intellij-for-osx) / [WIN](#intellij-for-windows)
 * VIM [OSX](#vim-for-osx)
 * Eclipse [WIN](#eclipse-windows)
 * Atom [OSX](#atom-osx)
-
+* [Markdown Tips](#markdown-tips)
 
 
 ## IntelliJ for OSX
@@ -54,7 +54,7 @@
 
 
 
-## IntelliJ for Windows
+## IntelliJ for Windows                                               [top](#contents)
 
 Shortcut                        Action                          
 -----------------------------------------------------------------------------------------------------
@@ -81,3 +81,9 @@ Shortcut                        Action
 `^ Y`                           Delete line  
 `F12`                           Switch to project view  
 `^ ⇧ F12`                       hides everything but editor, press again restore  
+
+
+
+## Markdown Tips
+
+`line break`  add two spaces at end of line and press return key (github markdown)
