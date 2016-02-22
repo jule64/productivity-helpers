@@ -40,11 +40,12 @@
 
 ## VIM for OSX
 
-* registers
-`"gy`  copy content of visual mode selection in register `"gp` to paste  
-`:reg`  display all registers
+<pre>
+- registers:
+"gy                           copy content of visual mode selection in register, "gp to paste  
+:reg                          display all registers
 
-
+</pre>
 
 
 
@@ -53,35 +54,35 @@
 <pre>
 Shortcut                        Action  
 ----------------------------------------------------------------------------------------------------------
-`^ Q`                           quick doc  
-`^ B`                           navigate declaration  
-`^ ⌥ B`                         go to implementation  
-`^ F12`                         file structure  
-`F6`                            refactor | rename  
-`^ O`                           override method  
-`^ ⌥ O`                         organize imports  
-`^ I`                           implement method  
-`^ ⌥ I`                         format code  
-`^ ⇧ I`                         definition of the method,class where cursor is pointing    
-`^ ⇧ Space`                     smartType code completion  
-`^ ⇧ F`                         find in path (same as normal find but searches all source files  
-`^ ⇧ A`                         find actions e.g. settings, their shortcut if exists  
-`^ E`                           recently opened files  
-`^ ⇧ E`                         recently edited files  
-`F2`                            any error in file  
-`⌥ insert`                      generate getter/setter  
-`⌥ \`\`                         bring up VCS operations pop up dialogue (++)  
-`^ W`  / `^ ⇧ W`                select/De-select word at caret (repeat to expand to enclosing expressions)  
-`⌥ F1, Enter`                   shows the file in project window   
-`^ Y`                           Delete line  
-`F12`                           Switch to project view  
-`^ ⇧ F12`                       hides everything but editor, press again restore  
+^ Q                           quick doc
+^ B                           navigate declaration
+^ ⌥ B                         go to implementation
+^ F12                         file structure  
+F6                            refactor | rename  
+^ O                           override method  
+^ ⌥ O                         organize imports  
+^ I                           implement method  
+^ ⌥ I                         format code  
+^ ⇧ I                         definition of the method,class where cursor is pointing    
+^ ⇧ <spacebar>                smartType code completion  
+^ ⇧ F                         find in path (same as normal find but searches all source files  
+^ ⇧ A                         find actions e.g. settings, their shortcut if exists  
+^ E                           recently opened files  
+^ ⇧ E                         recently edited files  
+F2                            any error in file  
+⌥ <insert>                    generate getter/setter  
+⌥ <backtick>                  bring up VCS operations pop up dialogue (++)  
+^ W  or ^ ⇧ W                 select/De-select word at caret (repeat to expand to enclosing expressions)  
+⌥ F1, Enter                   shows the file in project window   
+^ Y                           Delete line  
+F12                           Switch to project view  
+^ ⇧ F12                       hides everything but editor, press again restore  
 </pre>
 
 
 ## Markdown Tips
 
-`line break`  add two spaces at end of line and press return key (github markdown)  
+create line break             add two spaces at end of line and press return key (github markdown)  
 
 
 
