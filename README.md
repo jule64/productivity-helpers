@@ -1,9 +1,3 @@
-# shortcuts
-
-**Some quick muscle memory helpers for use with my IDEs, VIM etc.**
-
-
-
 ## Contents
 * **IntelliJ**  [OSX](#intellij-for-osx) / [WIN](#intellij-for-windows)
 * **VIM** [OSX](#vim-for-osx)
