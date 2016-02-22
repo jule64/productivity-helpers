@@ -83,7 +83,8 @@ F12                           Switch to project view
 ## Markdown Tips
 
 <pre>
-create line break             add two spaces at end of line and press return key (github markdown)  
+create line break: add two spaces add two spaces at end of line and press return key (github markdown)  
+use the html &lt;pre&gt; tag to do a table like alignement
 
 </pre>
 
