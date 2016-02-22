@@ -41,7 +41,7 @@
 ## VIM for OSX
 
 <pre>
-- registers:
+registers:
 "gy                           copy content of visual mode selection in register, "gp to paste  
 :reg                          display all registers
 
@@ -52,7 +52,7 @@
 ## IntelliJ for Windows  
 
 <pre>
-Shortcut                        Action  
+Shortcut                      Action  
 ----------------------------------------------------------------------------------------------------------
 ^ Q                           quick doc
 ^ B                           navigate declaration
@@ -70,8 +70,8 @@ F6                            refactor | rename
 ^ E                           recently opened files  
 ^ ⇧ E                         recently edited files  
 F2                            any error in file  
-⌥ \<insert\>                    generate getter/setter  
-⌥ \<backtick\>                  bring up VCS operations pop up dialogue (++)  
+⌥ &lt;insert&gt;                    generate getter/setter  
+⌥ &lt;backtick&gt;                  bring up VCS operations pop up dialogue (++)  
 ^ W  or ^ ⇧ W                 select/De-select word at caret (repeat to expand to enclosing expressions)  
 ⌥ F1, Enter                   shows the file in project window   
 ^ Y                           Delete line  
@@ -82,9 +82,10 @@ F12                           Switch to project view
 
 ## Markdown Tips
 
+<pre>
 create line break             add two spaces at end of line and press return key (github markdown)  
 
-
+</pre>
 
 
 <a href="#top">top</a>
