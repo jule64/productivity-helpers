@@ -84,7 +84,7 @@ F12                           Switch to project view
 
 <pre>
 create line break: add two spaces add two spaces at end of line and press return key (github markdown)  
-use the html &lt;pre&gt; tag to do a table like alignement
+use the html &lt;pre&gt;some content&lt;/pre&gt; tag to create a table like-alignment (like done in this document)
 
 </pre>
 
