@@ -64,14 +64,14 @@ F6                            refactor | rename
 ^ I                           implement method  
 ^ ⌥ I                         format code  
 ^ ⇧ I                         definition of the method,class where cursor is pointing    
-^ ⇧ <spacebar>                smartType code completion  
+^ ⇧ \<spacebar\>                smartType code completion  
 ^ ⇧ F                         find in path (same as normal find but searches all source files  
 ^ ⇧ A                         find actions e.g. settings, their shortcut if exists  
 ^ E                           recently opened files  
 ^ ⇧ E                         recently edited files  
 F2                            any error in file  
-⌥ <insert>                    generate getter/setter  
-⌥ <backtick>                  bring up VCS operations pop up dialogue (++)  
+⌥ \<insert\>                    generate getter/setter  
+⌥ \<backtick\>                  bring up VCS operations pop up dialogue (++)  
 ^ W  or ^ ⇧ W                 select/De-select word at caret (repeat to expand to enclosing expressions)  
 ⌥ F1, Enter                   shows the file in project window   
 ^ Y                           Delete line  
