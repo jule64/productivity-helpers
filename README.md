@@ -45,6 +45,8 @@ registers:
 "gy                           copy content of visual mode selection in register, "gp to paste  
 :reg                          display all registers
 
+ZQ                            close file  (ZZ close without saving)
+
 </pre>
 
 
