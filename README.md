@@ -10,10 +10,42 @@
 * Eclipse [WIN](#eclipse-windows)
 * Atom [OSX](#atom-osx)
 
+h
+h
+h
+hh
+hh
+hhh
+h
+hh
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
 
 
 ## IntelliJ (OSX)
-`
+
 ⌘ J :: live template
 ⌥ ⌘ J :: surround with live template
 ^ J :: quick doc
@@ -28,7 +60,7 @@ F3. :: bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show bookmarks)
 ⇧ ⌘ ↩︎ :: to complete a current statement such as if, do-while, try-catch
 ⌥ R :: Replace
 ⌥ ⌘ O :: open any particular method or field in the editor quickly
-`
+
 
 
 ## VIM (OSX)
