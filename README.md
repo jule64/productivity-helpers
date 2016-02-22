@@ -86,8 +86,8 @@
 Shortcut                        Action                          
 -----------------------------------------------------------------------------------------------------
 `^ Q`                           quick doc
-`^ B`                           navigate declaration
-`^ ⌥ B`                         go to implementation    
+`^ B`                           navigate declaration 
+`^ ⌥ B`                         go to implementation
 `^ F12`                         file structure
 `F6`                            refactor | rename
 `^ O`                           override method
