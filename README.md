@@ -54,8 +54,8 @@
 
 
 
-## IntelliJ for Windows
-[back to top](#contents)  
+## IntelliJ for Windows  [back to top](#contents)
+
 
 Shortcut                        Action                          
 -----------------------------------------------------------------------------------------------------
@@ -86,5 +86,10 @@ Shortcut                        Action
 
 
 ## Markdown Tips
+
+`line break`  add two spaces at end of line and press return key (github markdown)  
+
+
+
+
 <a href="#top">Back to top</a>
-`line break`  add two spaces at end of line and press return key (github markdown)
