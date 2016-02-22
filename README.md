@@ -1,18 +1,18 @@
 # shortcuts
 
-**Some quick muscle memory fixes for my IDEs, VIM and whatnots**
+**Some quick muscle memory helpers for use with my IDEs, VIM etc.**
 
 
 
 ## Apps
-* IntelliJ  [OSX](#intellij-osx) / [WIN](#intellij-windows)
-* VIM [OSX](#vim-osx)
+* IntelliJ  [OSX](#intellij-for-osx) / [WIN](#intellij-for-windows)
+* VIM [OSX](#vim-for-osx)
 * Eclipse [WIN](#eclipse-windows)
 * Atom [OSX](#atom-osx)
 
 
 
-## IntelliJ OSX
+## IntelliJ for OSX
 
 
 `⌘ J`  live template
@@ -71,7 +71,7 @@
 
 
 
-## VIM OSX
+## VIM for OSX
 
 * registers
 `"gy`  copy content of visual mode selection in register `"gp` to paste
@@ -81,36 +81,30 @@
 
 
 
-## IntelliJ Windows
-
-<pre>
+## IntelliJ for Windows
 
 Shortcut                        Action                          
 -----------------------------------------------------------------------------------------------------
 `^ Q`                           quick doc
 `^ B`                           navigate declaration
-`^ Alt B`                       go to implementation    
+`^ ⌥ B`                         go to implementation    
 `^ F12`                         file structure
-Shift F6                        refactor | rename
-^ O                             override method
-^ Alt O                         organize imports
-^ I                             implement method
-^ Alt I                         format code
-^ Shift I                       definition of the method,class where cursor is pointing    
-^ Shift Space                   smartType code completion
-Shift Shift                     search everywhere
-^ Shift F                       find in path (same as normal find but searches all source files
-^ Shift A                       find actions e.g. settings, their shortcut if exists
-^ E                             recently opened files
-^ Shift E                       recently edited files
-F2                              any error in file
-Alt insert                      generate getter/setter
-Alt \`                           bring up VCS operations pop up dialogue (++)
-^ W  / ^ Shift W                select/De-select word at caret (repeat to expand to enclosing expressions)
-Alt F1, Enter                   shows the file in project window    
-^ Y                             Delete line
-Esc                             Brings focus back to editor wherever we are (++)
-Shift Esc                       Brings focus back to editor and minimise current window
-F12 (from inside editor)        Switch to project view
-^ Shift F12                     hides everything but editor, press again restore
-</pre>
+`F6`                            refactor | rename
+`^ O`                           override method
+`^ ⌥ O`                         organize imports
+`^ I`                           implement method
+`^ ⌥ I`                         format code
+`^ ⇧ I`                         definition of the method,class where cursor is pointing    
+`^ ⇧ Space`                     smartType code completion
+`^ ⇧ F`                         find in path (same as normal find but searches all source files
+`^ ⇧ A`                         find actions e.g. settings, their shortcut if exists
+`^ E`                           recently opened files
+`^ ⇧ E`                         recently edited files
+`F2`                            any error in file
+`⌥ insert`                      generate getter/setter
+`⌥ \`\`                         bring up VCS operations pop up dialogue (++)
+`^ W`  / `^ ⇧ W`                select/De-select word at caret (repeat to expand to enclosing expressions)
+`⌥ F1, Enter`                   shows the file in project window    
+`^ Y`                           Delete line
+`F12`                           Switch to project view
+`^ ⇧ F12`                       hides everything but editor, press again restore
