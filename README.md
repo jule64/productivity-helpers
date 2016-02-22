@@ -5,8 +5,8 @@
 
 
 
-* IntelliJ  [OSX](#intellij-\(osx\)) / [WIN](#intellij-windows)
-* VIM [OSX](#vim-\(osx\))
+* IntelliJ  [OSX](#intellij-osx) / [WIN](#intellij-windows)
+* VIM [OSX](#vim-osx)
 * Eclipse [WIN](#eclipse-windows)
 * Atom [OSX](#atom-osx)
 
@@ -61,7 +61,7 @@ h
 hh
 
 
-## IntelliJ (OSX)
+## IntelliJ OSX
 `
 ⌘ J :: live template
 
@@ -90,7 +90,7 @@ F3. :: bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show bookmarks)
 ⌥ R :: Replace
 
 ⌥ ⌘ O :: open any particular method or field in the editor quickly
-
+`
 
 
 ## VIM (OSX)
