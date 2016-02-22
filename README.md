@@ -1,9 +1,9 @@
 ## Contents
-* **IntelliJ**  [OSX](#intellij-for-osx) / [WIN](#intellij-for-windows)
-* **VIM** [OSX](#vim-for-osx)
-* **Eclipse** [WIN](#eclipse-windows)
-* **Atom** [OSX](#atom-osx)
-* **[Markdown Tips](#markdown-tips)**
+* [Intellij (OSX)](#intellij-for-osx) / [WIN](#intellij-for-windows)
+* [VIM (OSX)](#vim-for-osx)
+* [Eclipse (WIN)](#eclipse-windows)
+* [Atom (OSX)](#atom-osx)
+* [Markdown Tips](#markdown-tips)
 
 
 ## IntelliJ for OSX
@@ -48,7 +48,7 @@
 
 
 
-## IntelliJ for Windows
+## IntelliJ for Windows  
 
 
 Shortcut                        Action                          
