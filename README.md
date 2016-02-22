@@ -50,9 +50,9 @@
 
 ## IntelliJ for Windows  
 
-
+<pre>
 Shortcut                        Action  
-
+----------------------------------------------------------------------------------------------------------
 `^ Q`                           quick doc  
 `^ B`                           navigate declaration  
 `^ ⌥ B`                         go to implementation  
@@ -76,7 +76,7 @@ Shortcut                        Action
 `^ Y`                           Delete line  
 `F12`                           Switch to project view  
 `^ ⇧ F12`                       hides everything but editor, press again restore  
-
+</pre>
 
 
 ## Markdown Tips
