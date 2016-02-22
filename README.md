@@ -54,7 +54,7 @@
 
 
 
-## IntelliJ for Windows  <small>([top](#contents))</small>
+## IntelliJ for Windows
 
 
 Shortcut                        Action                          
