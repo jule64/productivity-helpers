@@ -82,12 +82,9 @@ F12                           Switch to project view
 
 ## Markdown Tips
 
-<pre>
-create line break: add two spaces at end of line and press return key (github markdown)  
-use the html &lt;pre&gt;some content&lt;/pre&gt; tag to create a table like-alignment (like done in this document)
-create link in doc:  [visible text](#title-to-link-to)
-
-</pre>
+- create line break: add two spaces at end of line and press return key (github markdown)  
+- create block: use &lt;pre&gt;some content&lt;/pre&gt; tag to create a table like-alignment (like done in this document)  
+- create link in doc:  [visible text](#title-to-link-to)
 
 
 <a href="#top">top</a>
