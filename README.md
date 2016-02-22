@@ -54,8 +54,6 @@ ZQ                            close file  (ZZ close without saving)
 ## IntelliJ for Windows  
 
 <pre>
-Shortcut                      Action  
-----------------------------------------------------------------------------------------------------------
 ^ Q                           quick doc
 ^ B                           navigate declaration
 ^ ⌥ B                         go to implementation
