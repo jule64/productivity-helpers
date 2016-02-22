@@ -1,5 +1,5 @@
 ## Contents
-* [Intellij (OSX)](#intellij-for-osx) / [WIN](#intellij-for-windows)
+* [Intellij \[OSX\]](#intellij-for-osx) \[[WIN](#intellij-for-windows)\]
 * [VIM (OSX)](#vim-for-osx)
 * [Eclipse (WIN)](#eclipse-windows)
 * [Atom (OSX)](#atom-osx)
@@ -52,7 +52,7 @@
 
 
 Shortcut                        Action                          
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------  
 `^ Q`                           quick doc  
 `^ B`                           navigate declaration  
 `^ ⌥ B`                         go to implementation  
