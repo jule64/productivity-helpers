@@ -1,10 +1,11 @@
 # shortcuts
-=========
-
-*Some quick muscle memory fixes for my IDEs, VIM and whatnots*
 
 
+`Some quick muscle memory fixes for my IDEs, VIM and whatnots`
 
+
+
+## Apps
 * IntelliJ  [OSX](#intellij-osx) / [WIN](#intellij-windows)
 * VIM [OSX](#vim-osx)
 * Eclipse [WIN](#eclipse-windows)
@@ -64,9 +65,7 @@ hh
 ## IntelliJ OSX
 ```
 ⌘ J :: live template
-
 ⌥ ⌘ J :: surround with live template
-
 ^ J :: quick doc
 
 ⌘ Y  or ⌥ <spacebar> ::  quick definition
