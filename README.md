@@ -8,35 +8,35 @@
 
 ## IntelliJ for OSX
 
-
-`⌘ J`  live template  
-`⌥ ⌘`  Jsurround with live template  
-`⌘ F12`  file structure  
-`^ J`  quick doc (also `F1`)  
-`⌘ Y` or `⌥ <spacebar>`  quick definition  
-`⌘ P`  view parameter info  
-`⌘ B`  navigate to declaration  
-`^ H`  inheritance hierarchy  
-`⌥ ⌘ O`  open any particular method or field in the editor quickly  
-`^ G` or `⌥ .`  find next occurrence of word  
-`^ M`  matching bracket  
-`F3`  bookmark. Also `⌥ F3` (mnemonic) and `⌘ F3` (show bookmarks)  
-`⌘ F8`  break point  
-`⇧ ⌘ A`  find action  
-`⌘ ^ T`  compile typescript  
-`⇧ ⌘ ↩︎`  to complete a current statement such as if, do-while, try-catch  
-`⌥ R`  Replace  
-`⌥ ⌘ O`  open any particular method or field in the editor quickly  
-`⌥ F8` or `^ U`  evaluate expression when debug  
-`⌘ K`  git commit directory popup  
-`⌘ ⇧ K`  git push  
-`⇧ ⌘ ←`  last edit location  
-`⇧ ⌘ F7`  highlight usages in the file  
-`⌘ G` and `⇧ ⌘ G`  navigate through highlighted usages  
-`^ ⇧ Q`  shows declaration of current method  
-`⌘ E`  view recent files  
-`⌥ ⌘ ↑/↓`  jump between compiler errors or search results
-
+<pre>
+⌘ J                           live template  
+⌥ ⌘                           Jsurround with live template  
+⌘ F12                         file structure  
+^ J                           quick doc (also F1)  
+⌘ Y or ⌥ &lt;spacebar&gt;     quick definition  
+⌘ P                           view parameter info  
+⌘ B                           navigate to declaration  
+^ H                           inheritance hierarchy  
+⌥ ⌘ O                         open any particular method or field in the editor quickly  
+^ G or ⌥ .                    find next occurrence of word  
+^ M                           matching bracket  
+F3                            bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show bookmarks)  
+⌘ F8                          create break point  
+⇧ ⌘ A                         find action  
+⌘ ^ T                         compile typescript  
+⇧ ⌘ ↩︎                         to complete a current statement such as if, do-while, try-catch  
+⌥ R                           Replace  
+⌥ ⌘ O                         open any particular method or field in the editor quickly  
+⌥ F8 or ^ U                   evaluate expression when debug  
+⌘ K                           git commit directory popup  
+⌘ ⇧ K                         git push  
+⇧ ⌘ ←                         last edit location  
+⇧ ⌘ F7                        highlight usages in the file  
+⌘ G and ⇧ ⌘ G                 navigate through highlighted usages  
+^ ⇧ Q                         shows declaration of current method  
+⌘ E                           view recent files  
+⌥ ⌘ ↑/↓                       jump between compiler errors or search results
+<pre>
 
 ## VIM for OSX
 
