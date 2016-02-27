@@ -1,6 +1,6 @@
 ## Contents
 * [Intellij \[OSX\]](#intellij-for-osx) [\[WIN\]](#intellij-for-windows)
-* [VIM \[OSX\]](#vim-for-osx)
+* [VIM \[OSX\]](#vim)
 * [Eclipse \[WIN\]](#eclipse-windows)
 * [Atom \[OSX\]](#atom-osx)
 * [Markdown Tips](#markdown-tips)
@@ -8,7 +8,7 @@
 
 ## IntelliJ for OSX
 
-<pre>
+```
 ⌘ J                           live template  
 ⌥ ⌘                           Jsurround with live template  
 ⌘ F12                         file structure  
@@ -36,16 +36,72 @@ F3                            bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show 
 ^ ⇧ Q                         shows declaration of current method  
 ⌘ E                           view recent files  
 ⌥ ⌘ ↑/↓                       jump between compiler errors or search results
-</pre>
+```
 
-## VIM for OSX
+## VIM
 
 <pre>
-registers:
+
+#editor:
+zz, zt, zb                    position cursor at middle, top, or bottom of screen
+<C-C>                         switch out of insert mode (much better than ESC!)
+=                             format selected code (in visual mode)
+%                             match brackets
+* #                           find word under cursor
+/<C-R><C-W>                   Pull <cword> onto search/command line
+CTRL-R %                      pull file name (also #)
+:so %                         reload current file
+<C-O> or <C-I>                retrace your movements in file backward/forward
+U/u                           convert selected text to uppercase/lower case
+<C-N>                         autocomplete word
+g Ctrl-g                      info about current file (line numbers etc.)
+ciw                           change inner word
+
+#registers:
 "gy                           copy content of visual mode selection in register, "gp to paste  
 :reg                          display all registers
+"1p                           paste from register 1
 
-ZQ                            close file  (ZZ close without saving)
+
+#macros:
+qX                            start recording a macro (X = key to assign macro to)
+q                             stop recording
+@X                            playback macro
+@@                            replay previously played macro
+100@w                         playback w macro 100 times
+
+
+#bookmarks:
+mX   / \`X                    bookmark current cursor place / jump to bookmark
+:marks                        show all bookmarks
+:delm X / :delm!              delete X bookmark / all bookmarks
+
+
+#search replace:
+:%s/fred/joe/igc              general substitute command
+:g/^\s*$/d                    delete all blank lines
+:%s//someword                 // will pickup the last regex used
+
+
+#help:
+:h someword<C-D>              shows list of help topics matching someword
+:h ctrl<C-D>                  list help of all control keys
+:h i_CTRL-R                   help for say <C-R> in insert mode (c_ and v_ for command and visual mode)
+
+
+#screens:
+:split  / :vsplit             split screen horiz / vert
+:<C-W>j                       move to next split
+:only                         close all other splits
+
+
+#panels and buffers:
+:bd                           remove file from buffer list
+:bn                           next buffer
+:sp fred.txt                  open fred.txt into a split
+:n                            next file in argument list
+:tabe                         open new tab page
+
 
 </pre>
 
