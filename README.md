@@ -13,7 +13,7 @@
 ⌥ ⌘                           Jsurround with live template  
 ⌘ F12                         file structure  
 ^ J                           quick doc (also F1)  
-⌘ Y or ⌥ &lt;spacebar&gt;           quick definition  
+⌘ Y or ⌥ <spacebar>           quick definition  
 ⌘ P                           view parameter info  
 ⌘ B                           navigate to declaration  
 ^ H                           inheritance hierarchy  
@@ -40,8 +40,7 @@ F3                            bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show 
 
 ## VIM
 
-<pre>
-
+```
 #editor:
 zz, zt, zb                    position cursor at middle, top, or bottom of screen
 <C-C>                         switch out of insert mode (much better than ESC!)
@@ -103,7 +102,7 @@ mX   / \`X                    bookmark current cursor place / jump to bookmark
 :tabe                         open new tab page
 
 
-</pre>
+```
 
 
 
