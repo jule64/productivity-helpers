@@ -41,7 +41,8 @@ F3                            bookmark. Also ⌥ F3 (mnemonic) and ⌘ F3 (show 
 ## VIM
 
 ```
-#editor:
+- editor:
+
 zz, zt, zb                    position cursor at middle, top, or bottom of screen
 <C-C>                         switch out of insert mode (much better than ESC!)
 =                             format selected code (in visual mode)
@@ -56,13 +57,16 @@ U/u                           convert selected text to uppercase/lower case
 g Ctrl-g                      info about current file (line numbers etc.)
 ciw                           change inner word
 
-#registers:
+
+- registers:
+
 "gy                           copy content of visual mode selection in register, "gp to paste  
 :reg                          display all registers
 "1p                           paste from register 1
 
 
-#macros:
+- macros:
+
 qX                            start recording a macro (X = key to assign macro to)
 q                             stop recording
 @X                            playback macro
@@ -70,31 +74,35 @@ q                             stop recording
 100@w                         playback w macro 100 times
 
 
-#bookmarks:
-mX   / \`X                    bookmark current cursor place / jump to bookmark
+- bookmarks:
+
+mX  / `X                    bookmark current cursor place / jump to bookmark
 :marks                        show all bookmarks
 :delm X / :delm!              delete X bookmark / all bookmarks
 
 
-#search replace:
+- search replace:
+
 :%s/fred/joe/igc              general substitute command
 :g/^\s*$/d                    delete all blank lines
 :%s//someword                 // will pickup the last regex used
 
 
-#help:
+- help:
+
 :h someword<C-D>              shows list of help topics matching someword
 :h ctrl<C-D>                  list help of all control keys
 :h i_CTRL-R                   help for say <C-R> in insert mode (c_ and v_ for command and visual mode)
 
 
-#screens:
+- screens:
+
 :split  / :vsplit             split screen horiz / vert
 :<C-W>j                       move to next split
 :only                         close all other splits
 
 
-#panels and buffers:
+- panels and buffers:
 :bd                           remove file from buffer list
 :bn                           next buffer
 :sp fred.txt                  open fred.txt into a split
@@ -119,14 +127,14 @@ F6                            refactor | rename
 ^ I                           implement method  
 ^ ⌥ I                         format code  
 ^ ⇧ I                         definition of the method,class where cursor is pointing    
-^ ⇧ &lt;spacebar&gt;                smartType code completion  
+^ ⇧ <spacebar>                smartType code completion  
 ^ ⇧ F                         find in path (same as normal find but searches all source files  
 ^ ⇧ A                         find actions e.g. settings, their shortcut if exists  
 ^ E                           recently opened files  
 ^ ⇧ E                         recently edited files  
 F2                            any error in file  
-⌥ &lt;insert&gt;                    generate getter/setter  
-⌥ &lt;backtick&gt;                  bring up VCS operations pop up dialogue (++)  
+⌥ <insert>                    generate getter/setter  
+⌥ `                           bring up VCS operations pop up dialogue (++)  
 ^ W  or ^ ⇧ W                 select/De-select word at caret (repeat to expand to enclosing expressions)  
 ⌥ F1, Enter                   shows the file in project window   
 ^ Y                           Delete line  
@@ -138,7 +146,7 @@ F12                           Switch to project view
 ## Markdown Tips
 
 - create line break: add two spaces at end of line and press return key (github markdown)  
-- create block: use &lt;pre&gt;some content&lt;/pre&gt; tag to create a table like-alignment (like done in this document)  
+- create block: use `<pre>some content</pre>` tag to create a table like-alignment (like done in this document)  
 - create link in doc:  `[visible text](#title-to-link-to)`
 
 
